@@ -18,4 +18,6 @@ HTML
 CSS (Flexbox, Grid, Media Queries) 
 JavaScript (DOM Manipulation) 
 Output:
-Screenshots are attached to the file.
+<img width="1920" height="995" alt="Image" src="https://github.com/user-attachments/assets/b84c346a-cc42-4d75-b118-ce2a35bc8db9" />
+<img width="1905" height="960" alt="Image" src="https://github.com/user-attachments/assets/dca0d8dc-bd38-4083-9a8d-540322f2c867" />
+<img width="1884" height="958" alt="Image" src="https://github.com/user-attachments/assets/5365649e-e138-447a-84dc-c6e1e4ffc2af" />
